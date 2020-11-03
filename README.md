@@ -1,0 +1,2 @@
+# iSQL
+Useful SQL queries
